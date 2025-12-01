@@ -19,14 +19,14 @@ My work focuses on developing **data science and machine learning methods** to s
 ## 📄 Publications
 
 You can find all my published and preprint articles on my  
-➡️ **Google Scholar profile**: *[https://scholar.google.com/citations?user=xT0cYJoAAAAJ&hl=fr]*
+➡️ **Google Scholar profile**: *[Google scholar profile](https://scholar.google.com/citations?user=xT0cYJoAAAAJ&hl=fr)*
 
 ---
 
 ## 🧑‍🚀 Curriculum Vitae
 
 My full resume is available on  
-➡️ **LinkedIn**: *[(https://fr.linkedin.com/in/sol%C3%A8ne-th%C3%A9paut-102a16176)]*
+➡️ **LinkedIn**: *[Linkedin account](https://fr.linkedin.com/in/sol%C3%A8ne-th%C3%A9paut-102a16176)*
 
 ---
 
@@ -45,5 +45,5 @@ My full resume is available on
 Feel free to reach out for scientific discussions, collaborations, or inquiries.
 
 - Email: *solene.thepaut@safrangroup.com*  
-- LinkedIn: *[(https://fr.linkedin.com/in/sol%C3%A8ne-th%C3%A9paut-102a16176)]*  
+- LinkedIn: *[account](https://fr.linkedin.com/in/sol%C3%A8ne-th%C3%A9paut-102a16176)*  
 
