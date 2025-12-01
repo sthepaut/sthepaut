@@ -19,7 +19,7 @@ My work focuses on developing **data science and machine learning methods** to s
 ## 📄 Publications
 
 You can find all my published and preprint articles on my  
-➡️ **Google Scholar profile**: *[(https://scholar.google.com/citations?user=xT0cYJoAAAAJ&hl=fr)]*
+➡️ **Google Scholar profile**: *[https://scholar.google.com/citations?user=xT0cYJoAAAAJ&hl=fr]*
 
 ---
 
